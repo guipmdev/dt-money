@@ -31,6 +31,7 @@ export function NewTransactionModal() {
             <TransactionTypeButton $variant="income" value="income">
               <ArrowCircleUp size={24} /> Entrada
             </TransactionTypeButton>
+
             <TransactionTypeButton $variant="outcome" value="outcome">
               <ArrowCircleDown size={24} /> Saída
             </TransactionTypeButton>
