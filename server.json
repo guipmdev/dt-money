@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "teste",
+      "price": 1,
+      "category": "2",
+      "type": "income",
+      "createdAt": "2023-07-09T13:02:39.318Z",
+      "id": 4
+    },
+    {
+      "description": "bing",
+      "price": 2,
+      "category": "1234",
+      "type": "outcome",
+      "createdAt": "2023-07-09T13:14:27.267Z",
+      "id": 5
     }
   ]
 }
