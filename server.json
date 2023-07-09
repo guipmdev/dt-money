@@ -25,20 +25,28 @@
       "createdAt": "2022-07-29T19:24:44.505Z"
     },
     {
-      "description": "teste",
-      "price": 1,
-      "category": "2",
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
       "type": "income",
-      "createdAt": "2023-07-09T13:02:39.318Z",
+      "createdAt": "2023-07-09T13:45:34.764Z",
       "id": 4
     },
     {
-      "description": "bing",
-      "price": 2,
-      "category": "1234",
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
       "type": "outcome",
-      "createdAt": "2023-07-09T13:14:27.267Z",
+      "createdAt": "2023-07-09T13:46:05.749Z",
       "id": 5
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-09T13:46:20.836Z",
+      "id": 6
     }
   ]
 }
