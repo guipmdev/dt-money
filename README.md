@@ -13,6 +13,10 @@
     src="https://img.shields.io/github/repo-size/guipmdev/dt-money?labelColor=202024"
     alt="Repository size"
   />
+  <img
+    src="https://img.shields.io/github/commit-activity/m/guipmdev/dt-money?color=gray&labelColor=202024"
+    alt="Commit activity"
+  />
   <a
     href="https://github.com/guipmdev/dt-money/commits/main?labelColor=202024"
     rel="noopener noreferrer"
@@ -20,7 +24,7 @@
   >
     <img
       src="https://img.shields.io/github/last-commit/guipmdev/dt-money?labelColor=202024"
-      alt="GitHub last commit"
+      alt="Last commit"
     />
   </a>
   <a href="./LICENSE" rel="noopener noreferrer" target="_blank">
@@ -43,6 +47,10 @@
 
 ![ Screenshot of the application initial page](./src/assets/images/cover.png)
 
+<p align="center">
+  <a href="https://guipmdev-dt-money.vercel.app/" rel="noopener noreferrer" target="_blank">Go to application ↗</a>
+</p>
+
 <details>
   <summary>
     <h2>📒 Table of Contents</h2>
@@ -50,7 +58,6 @@
 
 - [📍 Overview](#-overview)
   - [⚠️ Disclaimer](#️-disclaimer)
-- [🕹 Play](#-play)
 - [✨ Features](#-features)
 - [🤖 Demo](#-demo)
 - [🛠 Technologies](#-technologies)
@@ -76,12 +83,6 @@ The purpose of the project is to provide an intuitive and user-friendly interfac
 ### ⚠️ Disclaimer
 
 The back-end of this application is built with JSON Server and does not have a deployment, as the focus is primarily on the front-end. To fully test the application, you'll need to clone the repository, run the `dev:server` script, and then open the website.
-
-## 🕹 Play
-
-Ready to dive in? Explore and use readme-ai in your web browser with Streamlit Community Cloud, no installation required!
-
-- Launch readme-ai on Streamlit
 
 ## ✨ Features
 
