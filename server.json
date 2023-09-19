@@ -1,52 +1,84 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
-      "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2022-07-29T19:36:44.505Z"
+      "description": "Fone de ouvido",
+      "price": 150,
+      "category": "Itens",
+      "type": "outcome",
+      "createdAt": "2023-02-02T13:29:11.636Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "description": "Hambúrguer",
-      "type": "outcome",
+      "description": "Almoço",
+      "price": 30,
       "category": "Alimentação",
-      "price": 60,
-      "createdAt": "2022-07-29T19:30:44.505Z"
-    },
-    {
-      "id": 3,
-      "description": "Ignite Rocketseat",
       "type": "outcome",
-      "category": "Educação",
-      "price": 1980,
-      "createdAt": "2022-07-29T19:24:44.505Z"
+      "createdAt": "2023-02-05T13:29:22.054Z",
+      "id": 2
     },
     {
-      "description": "Desenvolvimento de app",
-      "price": 10000,
-      "category": "Venda",
+      "description": "Salário",
+      "price": 5400,
+      "category": "Salário",
       "type": "income",
-      "createdAt": "2023-07-09T13:45:34.764Z",
+      "createdAt": "2023-02-15T13:29:34.667Z",
+      "id": 3
+    },
+    {
+      "description": "Aluguel do apartamento",
+      "price": 1200,
+      "category": "Casa",
+      "type": "outcome",
+      "createdAt": "2023-02-27T13:30:01.557Z",
       "id": 4
     },
     {
-      "description": "Pastel",
-      "price": 5,
+      "description": "Janta",
+      "price": 39,
       "category": "Alimentação",
       "type": "outcome",
-      "createdAt": "2023-07-09T13:46:05.749Z",
+      "createdAt": "2023-03-10T13:30:10.510Z",
       "id": 5
     },
     {
-      "description": "Iogurte de Banana",
-      "price": 4,
+      "description": "Desenvolvimento de site",
+      "price": 8000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-13T13:30:26.567Z",
+      "id": 6
+    },
+    {
+      "description": "Computador",
+      "price": 5400,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-15T13:30:43.265Z",
+      "id": 7
+    },
+    {
+      "description": "Aluguel do apartamento",
+      "price": 1200,
+      "category": "Casa",
+      "type": "outcome",
+      "createdAt": "2023-03-27T13:30:53.689Z",
+      "id": 8
+    },
+    {
+      "description": "Hamburguer",
+      "price": 59,
       "category": "Alimentação",
       "type": "outcome",
-      "createdAt": "2023-07-09T13:46:20.836Z",
-      "id": 6
+      "createdAt": "2023-04-10T13:31:04.547Z",
+      "id": 9
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "price": 12000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-13T13:31:14.532Z",
+      "id": 10
     }
   ]
 }
