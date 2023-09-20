@@ -102,11 +102,11 @@ The back-end of this application is built with _JSON Server_ and does not have a
 
 ## ✨ Features
 
-| Feature                        | Description                                           |
-| ------------------------------ | ----------------------------------------------------- |
-| **➕ Transactions management** | Add your incomes and outcomes.                        |
-| **🔎 Transactions search**     | Search your incomes and outcomes by name or category. |
-| **📊 Financial summary**       | View summary of income, outcome, and overall balance. |
+➕ **Create transactions** to manage them
+
+🔎 **Search** incomes and outcomes by **name** or **category**
+
+📊 View a **summary** of income, outcome, and overall balance
 
 ## 🤖 Demo
 

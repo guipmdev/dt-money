@@ -102,11 +102,11 @@ O back-end dessa aplicação foi desenvolvido com _JSON Server_ e não tem um de
 
 ## ✨ Funcionalidades
 
-| Funcionalidade                     | Descrição                                                |
-| ---------------------------------- | -------------------------------------------------------- |
-| **➕ Gerenciamento de transações** | Adicione suas receitas e despesas.                       |
-| **🔎 Pesquisa por transações**     | Pesquise suas receitas e despesas por nome ou categoria. |
-| **📊 Resumo financeiro**           | Veja o resumo das receitas, despesas e do saldo geral.   |
+➕ **Crie transações** para gerenciá-las
+
+🔎 **Procure** receitas e despesas por **nome** ou **categoria**
+
+📊 Visualize um **resumo** das entradas, saídas e o saldo geral
 
 ## 🤖 Demo
 
