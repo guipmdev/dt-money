@@ -250,7 +250,7 @@ Before you begin, ensure that you have the following tools installed on your mac
 
 ### 📦 Installation
 
-1. Clone the `dt-money` repository:
+1. Clone the repository:
 
 ```sh
 git clone https://github.com/guipmdev/dt-money/
