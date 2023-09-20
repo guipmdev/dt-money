@@ -1,7 +1,7 @@
 {
-  "name": "ignite-reactjs-03-dt-money",
+  "name": "dt-money",
+  "description": "React and TypeScript-based web app for intuitive personal finance management.",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -38,5 +38,19 @@
     "json-server": "^0.17.3",
     "typescript": "^5.0.2",
     "vite": "^4.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipmdev/dt-money.git"
+  },
+  "author": {
+    "name": "Guilherme Preveda Milék",
+    "email": "guipmdev@gmail.com",
+    "url": "https://guipm.dev/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guipmdev/dt-money/issues"
+  },
+  "homepage": "https://guipmdev-dt-money.vercel.app/"
 }
