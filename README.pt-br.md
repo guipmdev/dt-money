@@ -1,6 +1,15 @@
 <!-- ===== HEADER (Badges) ===== -->
-
-[![en](https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024)](./README.md)
+<p>
+  <a
+    href="./README.md"
+    title="Read the README in english"
+  >
+    <img
+      src="https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024"
+      alt="lang-en"
+    />
+  </a>
+</p>
 
 <h1 align="center">
   <a
@@ -35,7 +44,7 @@
   </a>
   <a href="./LICENSE" title="Visualizar licença do projeto">
     <img
-      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024&label=licença"
+      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024&label=licen%C3%A7a"
       alt="Licença do projeto"
     />
   </a>
