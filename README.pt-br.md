@@ -83,7 +83,7 @@
 - [🚀 Primeiros passos](#-primeiros-passos)
   - [✔️ Pré-requisitos](#️-pré-requisitos)
   - [📦 Instalação](#-instalação)
-  - [⚙️ Usando](#️-usando)
+  - [⚙️ Utilização](#️-utilização)
 - [📄 Licença](#-licença)
 - [👏 Reconhecimentos](#-reconhecimentos)
 </details>
@@ -291,7 +291,7 @@ cd dt-money
 npm install
 ```
 
-### ⚙️ Usando
+### ⚙️ Utilização
 
 1. Inicie o JSON Server:
 

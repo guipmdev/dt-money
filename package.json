@@ -49,8 +49,5 @@
     "url": "https://guipm.dev/"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/guipmdev/dt-money/issues"
-  },
   "homepage": "https://guipmdev-dt-money.vercel.app/"
 }
