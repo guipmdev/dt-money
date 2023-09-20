@@ -1,7 +1,14 @@
 <!-- ===== HEADER (Badges) ===== -->
 
 <h1 align="center">
-  <img src="./src/assets/logo.svg" alt="DT Money logo" height="60px" />
+  <a
+    href="https://guipmdev-dt-money.vercel.app/"
+    rel="noopener noreferrer"
+    target="_blank"
+    title="Go to the web application"
+  >
+    <img src="./src/assets/logo.svg" alt="DT Money logo" height="60px" />
+  </a>
 </h1>
 
 <p align="center">
@@ -18,25 +25,32 @@
     alt="Commit activity"
   />
   <a
-    href="https://github.com/guipmdev/dt-money/commits/main?labelColor=202024"
+    href="https://github.com/guipmdev/dt-money/commits/main"
     rel="noopener noreferrer"
     target="_blank"
+    title="View repository commits"
   >
     <img
       src="https://img.shields.io/github/last-commit/guipmdev/dt-money?labelColor=202024"
       alt="Last commit"
     />
   </a>
-  <a href="./LICENSE" rel="noopener noreferrer" target="_blank">
+  <a
+    href="./LICENSE"
+    rel="noopener noreferrer"
+    target="_blank"
+    title="View project license"
+  >
     <img
       src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024"
-      alt="License"
+      alt="Project license"
     />
   </a>
   <a
     href="https://www.rocketseat.com.br/"
     rel="noopener noreferrer"
     target="_blank"
+    title="Go to the Rocketseat website"
   >
     <img
       src="https://img.shields.io/badge/Layout_by-Rocketseat-8257e5?labelColor=202024"
@@ -45,10 +59,15 @@
   </a>
 </p>
 
-![ Screenshot of the application initial page](./src/assets/images/cover.png)
+![Screenshot of the application initial page](./src/assets/images/cover.png)
 
 <p align="center">
-  <a href="https://guipmdev-dt-money.vercel.app/" rel="noopener noreferrer" target="_blank">Go to application ↗</a>
+  <a
+    href="https://guipmdev-dt-money.vercel.app/"
+    rel="noopener noreferrer"
+    target="_blank"
+    >Go to the web application ↗</a
+  >
 </p>
 
 <details>
@@ -60,6 +79,7 @@
   - [⚠️ Disclaimer](#️-disclaimer)
 - [✨ Features](#-features)
 - [🤖 Demo](#-demo)
+- [🎨 Layout](#-layout)
 - [🛠 Technologies](#-technologies)
   - [Website](#website)
   - [Server](#server)
@@ -96,6 +116,18 @@ The back-end of this application is built with JSON Server and does not have a d
 
 <p align="center">
   <video src="./src/assets/videos/dt-money.mp4" width="75%" />
+</p>
+
+## 🎨 Layout
+
+The layout of the application was designed by **Rocketseat** and is available on [Figma](<https://www.figma.com/file/fYmLz2A4boqht18Yjbri9i/DT-Money-(Community)>).
+
+<p align="center">
+  <img
+    src="./src/assets/images/layout-cover.png"
+    alt="Web application layout image cover"
+    width="50%"
+  />
 </p>
 
 ## 🛠 Technologies
@@ -301,11 +333,13 @@ npm install
 npm run dev:server
 ```
 
-2. In another terminal, run the application:
+2. In another terminal, start the web application:
 
 ```sh
 npm run dev
 ```
+
+3. Access https://localhost:5173/ (or https://guipmdev-dt-money.vercel.app/) to view the application
 
 ## 📄 License
 
@@ -314,7 +348,7 @@ This project is licensed under the terms of the `MIT` license. See the
 
 ## 👏 Acknowledgments
 
-> - [Rocketseat](https://www.rocketseat.com.br/)
+> - Many thanks to [Rocketseat](https://www.rocketseat.com.br/) for the layout and tips when putting this project together
 
 <!-- ===== FOOTER ===== -->
 
@@ -325,7 +359,10 @@ This project is licensed under the terms of the `MIT` license. See the
   <a href="https://www.guipm.dev/" rel="noopener noreferrer" target="_blank">
     @guipm.dev
   </a>
-  - Feel free to contact me!
+  - Feel free to
+  <a href="mailto:guipm.dev@gmail.com" rel="noopener noreferrer" target="_blank"
+    >contact me</a
+  >!
 </p>
 
 <br />
