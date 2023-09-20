@@ -1,101 +1,101 @@
 <!-- ===== HEADER (Badges) ===== -->
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green?style=flat-square&labelColor=202024)](./README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024)](./README.md)
 
 <h1 align="center">
   <a
     href="https://guipmdev-dt-money.vercel.app/"
-    title="Go to the web application"
+    title="Acessar a aplicação web"
   >
-    <img src="./src/assets/logo.svg" alt="DT Money logo" height="60px" />
+    <img src="./src/assets/logo.svg" alt="Logo do DT Money" height="60px" />
   </a>
 </h1>
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/languages/count/guipmdev/dt-money?color=%2304D361&labelColor=202024"
-    alt="Repository language count"
+    src="https://img.shields.io/github/languages/count/guipmdev/dt-money?color=%2304D361&labelColor=202024&label=linguagens"
+    alt="Contagem de linguagens do repositório"
   />
   <img
-    src="https://img.shields.io/github/repo-size/guipmdev/dt-money?labelColor=202024"
-    alt="Repository size"
+    src="https://img.shields.io/github/repo-size/guipmdev/dt-money?labelColor=202024&label=tamanho do repo"
+    alt="Tamanho do repositório"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/m/guipmdev/dt-money?color=gray&labelColor=202024"
-    alt="Commit activity"
+    src="https://img.shields.io/github/commit-activity/m/guipmdev/dt-money?color=gray&labelColor=202024&label=atividade de commits"
+    alt="Atividade de commits"
   />
   <a
     href="https://github.com/guipmdev/dt-money/commits/main"
-    title="View repository commits"
+    title="Visualizar commits do repositório"
   >
     <img
-      src="https://img.shields.io/github/last-commit/guipmdev/dt-money?labelColor=202024"
-      alt="Last commit"
+      src="https://img.shields.io/github/last-commit/guipmdev/dt-money?labelColor=202024&label=último commit"
+      alt="Último commit"
     />
   </a>
-  <a href="./LICENSE" title="View project license">
+  <a href="./LICENSE" title="Visualizar licença do projeto">
     <img
-      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024"
-      alt="Project license"
+      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024&label=licença"
+      alt="Licença do projeto"
     />
   </a>
-  <a href="https://www.rocketseat.com.br/" title="Go to the Rocketseat website">
+  <a href="https://www.rocketseat.com.br/" title="Acessar o site da Rocketseat">
     <img
-      src="https://img.shields.io/badge/Layout_by-Rocketseat-8257e5?labelColor=202024"
-      alt="Layout designer"
+      src="https://img.shields.io/badge/Layout_por-Rocketseat-8257e5?labelColor=202024"
+      alt="Designer do layout"
     />
   </a>
 </p>
 
-![Screenshot of the application initial page](./src/assets/images/cover.png)
+![Captura de tela da página inicial da aplicação](./src/assets/images/cover.png)
 
 <p align="center">
   <a href="https://guipmdev-dt-money.vercel.app/"
-    >Go to the web application ↗</a
+    >Acessar a aplicação web ↗</a
   >
 </p>
 
 <details>
   <summary>
-    <h2>📒 Table of Contents</h2>
+    <h2>📒 Índice</h2>
   </summary>
 
-- [📍 Overview](#-overview)
-  - [⚠️ Disclaimer](#️-disclaimer)
-- [✨ Features](#-features)
+- [📍 Visão geral](#-visão-geral)
+  - [⚠️ Aviso](#️-aviso)
+- [✨ Funcionalidades](#-funcionalidades)
 - [🤖 Demo](#-demo)
 - [🎨 Layout](#-layout)
-- [🛠 Technologies](#-technologies)
+- [🛠 Tecnologias](#-tecnologias)
   - [Website](#website)
-  - [Server](#server)
-  - [Utils](#utils)
-- [🚀 Getting Started](#-getting-started)
-  - [✔️ Prerequisites](#️-prerequisites)
-  - [📦 Installation](#-installation)
-  - [⚙️ Using](#️-using)
-- [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
+  - [Servidor](#servidor)
+  - [Úteis](#úteis)
+- [🚀 Primeiros passos](#-primeiros-passos)
+  - [✔️ Pré-requisitos](#️-pré-requisitos)
+  - [📦 Instalação](#-instalação)
+  - [⚙️ Usando](#️-usando)
+- [📄 Licença](#-licença)
+- [👏 Reconhecimentos](#-reconhecimentos)
 </details>
 
 <!-- ===== PROJECT INFOS ===== -->
 
-## 📍 Overview
+## 📍 Visão geral
 
-The project is a web-based financial application built with _React_ and _TypeScript_. It allows users to manage their transactions by creating, viewing, and searching for transactions. The core functionalities include displaying a summary of income, outcome, and overall balance, creating new transactions, and searching for transactions based on user input.
+O projeto é um aplicativo financeiro para web desenvolvido com _React_ e _TypeScript_. Ele permite que os usuários gerenciem suas transações criando, visualizando e pesquisando por transações. As suas principais funcionalidades incluem a exibição de um resumo de receitas, despesas e saldo geral, criação de novas transações e pesquisa por transações baseada na entrada do usuário.
 
-The purpose of the project is to provide an intuitive and user-friendly interface for managing personal finances, keeping track of transactions, and organizing financial data effectively. Its value proposition lies in its simplicity, efficiency, and the ability to provide important financial insights to users.
+O objetivo do projeto é fornecer uma interface intuitiva e fácil de usar para gerenciamento das finanças pessoais, acompanhar as movimentações e organizar os dados financeiros de forma eficiente. Sua proposta de valor está na simplicidade, eficiência e capacidade de fornecer informações financeiras relevantes aos usuários.
 
-### ⚠️ Disclaimer
+### ⚠️ Aviso
 
-The back-end of this application is built with _JSON Server_ and does not have a deployment, as the focus is primarily on the front-end. **To fully test the application, you'll need to clone the repository**, run the `dev:server` script, and then open the website.
+O back-end dessa aplicação foi desenvolvido com _JSON Server_ e não tem um deploy, pois o foco principal é o front-end. **Para testar essa aplicação completamente, você precisará clonar o repositório**, executar o script `dev:server` e, em seguida, abrir o site.
 
-## ✨ Features
+## ✨ Funcionalidades
 
-| Feature                        | Description                                           |
-| ------------------------------ | ----------------------------------------------------- |
-| **➕ Transactions management** | Add your incomes and outcomes.                        |
-| **🔎 Transactions search**     | Search your incomes and outcomes by name or category. |
-| **📊 Financial summary**       | View summary of income, outcome, and overall balance. |
+| Funcionalidade                     | Descrição                                                |
+| ---------------------------------- | -------------------------------------------------------- |
+| **➕ Gerenciamento de transações** | Adicione suas receitas e despesas.                       |
+| **🔎 Pesquisa por transações**     | Pesquise suas receitas e despesas por nome ou categoria. |
+| **📊 Resumo financeiro**           | Veja o resumo das receitas, despesas e do saldo geral.   |
 
 ## 🤖 Demo
 
@@ -103,19 +103,19 @@ https://github.com/guipmdev/dt-money/assets/136738335/a94e2d60-14a9-4139-9715-83
 
 ## 🎨 Layout
 
-The layout of the application was designed by **Rocketseat** and is available on [Figma](<https://www.figma.com/file/fYmLz2A4boqht18Yjbri9i/DT-Money-(Community)>).
+O layout da aplicação foi projetado pela **Rocketseat** e está disponível no [Figma](<https://www.figma.com/file/fYmLz2A4boqht18Yjbri9i/DT-Money-(Community)>).
 
 <p align="center">
   <img
     src="./src/assets/images/layout-cover.png"
-    alt="Web application layout image cover"
+    alt="Imagem de capa do layout da aplicação web"
     width="50%"
   />
 </p>
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 
-The following tools were used to build the project:
+As seguintes ferramentas foram usadas para desenvolver esse projeto:
 
 ### Website
 
@@ -200,7 +200,7 @@ The following tools were used to build the project:
   </a>
 </p>
 
-### Server
+### Servidor
 
 <p>
   <a href="https://github.com/typicode/json-server">
@@ -211,9 +211,9 @@ The following tools were used to build the project:
   </a>
 </p>
 
-_\* See the [<kbd>package.json</kbd>](./package.json) file_
+_\* Confira o arquivo [<kbd>package.json</kbd>](./package.json)_
 
-### Utils
+### Úteis
 
 <p>
   <a href="https://figma.com/">
@@ -242,72 +242,71 @@ _\* See the [<kbd>package.json</kbd>](./package.json) file_
   </a>
 </p>
 
-## 🚀 Getting Started
+## 🚀 Primeiros passos
 
-### ✔️ Prerequisites
+### ✔️ Pré-requisitos
 
-Before you begin, ensure that you have the following tools installed on your machine: [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download). It's also good to have an editor to work with the code, such as [VSCode](https://code.visualstudio.com/Download).
+Antes de você começar, certifique-se que você tem as seguintes ferramentas instaladas na sua máquina: [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download). Também é bom ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/Download).
 
-### 📦 Installation
+### 📦 Instalação
 
-1. Clone the repository:
+1. Clone o repositório:
 
 ```sh
 git clone https://github.com/guipmdev/dt-money/
 ```
 
-2. Change to the project directory:
+2. Mude para o diretório do projeto:
 
 ```sh
 cd dt-money
 ```
 
-3. Install the dependencies:
+3. Instale as dependências:
 
 ```sh
 npm install
 ```
 
-### ⚙️ Using
+### ⚙️ Usando
 
-1. Start the JSON Server:
+1. Inicie o JSON Server:
 
 ```sh
 npm run dev:server
 ```
 
-2. In another terminal, start the web application:
+2. Em outro terminal, inicie a aplicação web:
 
 ```sh
 npm run dev
 ```
 
-3. Access https://localhost:5173/ (or https://guipmdev-dt-money.vercel.app/) to view the application
+3. Acesse https://localhost:5173/ (ou https://guipmdev-dt-money.vercel.app/) para visualizar a aplicação
 
-## 📄 License
+## 📄 Licença
 
-This project is licensed under the terms of the `MIT` license. See the
-[LICENSE](./LICENSE) file for additional info.
+Este projeto está licenciado de acordo com os termos da licença `MIT`. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
-## 👏 Acknowledgments
+## 👏 Reconhecimentos
 
-> - Many thanks to [Rocketseat](https://www.rocketseat.com.br/) for the layout and tips when putting this project together
+> - Muito obrigado à [Rocketseat](https://www.rocketseat.com.br/) pelo layout e pelas dicas de como montar este projeto
 
 <!-- ===== FOOTER ===== -->
 
 ---
 
 <p align="center">
-  Made with 💙 by
+  Feito com 💙 por
   <a href="https://www.guipm.dev/"> @guipm.dev </a>
-  - Feel free to
-  <a href="mailto:guipm.dev@gmail.com">contact me</a>!
+  - Fique à vontade para
+  <a href="mailto:guipm.dev@gmail.com">entrar em contato comigo</a>!
 </p>
 
 <br />
 
 <p align="center">
   <a href="#top">
-    <b>↑&nbsp;&nbsp; Return to the top &nbsp;&nbsp;↑</b>
+    <b>↑&nbsp;&nbsp; Voltar ao topo &nbsp;&nbsp;↑</b>
   </a>
 </p>
