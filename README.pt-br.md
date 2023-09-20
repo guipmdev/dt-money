@@ -1,14 +1,16 @@
 <!-- ===== HEADER (Badges) ===== -->
-<p>
-  <a
-    href="./README.md"
-    title="Read the README in english"
-  >
+<p align="right">
+  <a href="./README.md" title="Read the README in english">
     <img
       src="https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024"
       alt="lang-en"
     />
   </a>
+  <img
+    src="https://img.shields.io/badge/lang-pt--br-gray?style=flat-square&labelColor=202024"
+    alt="lang-pt-br"
+    title="You are reading the README in Brazilian portuguese"
+  />
 </p>
 
 <h1 align="center">
@@ -30,7 +32,7 @@
     alt="Tamanho do repositório"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/m/guipmdev/dt-money?color=gray&labelColor=202024&label=atividade de commits"
+    src="https://img.shields.io/github/commit-activity/m/guipmdev/dt-money?color=black&labelColor=202024&label=atividade de commits"
     alt="Atividade de commits"
   />
   <a
@@ -175,7 +177,10 @@ As seguintes ferramentas foram usadas para desenvolver esse projeto:
     />
   </a>
   <a href="https://github.com/colinhacks/zod">
-    <img src="https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod" alt="Zod" />
+    <img
+      src="https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod"
+      alt="Zod"
+    />
   </a>
   <a href="https://github.com/dai-shi/use-context-selector">
     <img
@@ -184,7 +189,10 @@ As seguintes ferramentas foram usadas para desenvolver esse projeto:
     />
   </a>
   <a href="https://www.npmjs.com/package/scheduler">
-    <img src="https://img.shields.io/badge/scheduler-gray?style=for-the-badge" alt="scheduler" />
+    <img
+      src="https://img.shields.io/badge/scheduler-gray?style=for-the-badge"
+      alt="scheduler"
+    />
   </a>
 </p>
 
@@ -225,6 +233,18 @@ _\* Confira o arquivo [<kbd>package.json</kbd>](./package.json)_
 ### Úteis
 
 <p>
+  <a href="https://git-scm.com/">
+    <img
+      src="https://img.shields.io/badge/Git-f1f1e9?style=for-the-badge&logo=git"
+      alt="Git"
+    />
+  </a>
+  <a href="https://nodejs.org/">
+    <img
+      src="https://img.shields.io/badge/Node.js-233056?style=for-the-badge&logo=node.js"
+      alt="Node.js"
+    />
+  </a>
   <a href="https://figma.com/">
     <img
       src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma"
@@ -235,12 +255,6 @@ _\* Confira o arquivo [<kbd>package.json</kbd>](./package.json)_
     <img
       src="https://img.shields.io/badge/Google_Fonts-white?style=for-the-badge&logo=google-fonts"
       alt="Google Fonts"
-    />
-  </a>
-  <a href="https://httpie.io/">
-    <img
-      src="https://img.shields.io/badge/HTTPie-1e1919?style=for-the-badge&logo=httpie"
-      alt="HTTPie"
     />
   </a>
   <a href="https://code.visualstudio.com/">
