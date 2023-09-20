@@ -97,9 +97,7 @@ The back-end of this application is built with _JSON Server_ and does not have a
 
 ## 🤖 Demo
 
-<p align="center">
-  <video src="./src/assets/videos/dt-money.mp4" width="75%" />
-</p>
+https://github.com/guipmdev/dt-money/assets/136738335/a94e2d60-14a9-4139-9715-83c567ad8e9e
 
 ## 🎨 Layout
 
