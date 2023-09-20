@@ -1,6 +1,15 @@
 <!-- ===== HEADER (Badges) ===== -->
-
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green?style=flat-square&labelColor=202024)](./README.pt-br.md)
+<p>
+  <a
+    href="./README.pt-br.md"
+    title="Ler o README em português do Brasil"
+  >
+    <img
+      src="https://img.shields.io/badge/lang-pt--br-green?style=flat-square&labelColor=202024"
+      alt="lang-pt-br"
+    />
+  </a>
+</p>
 
 <h1 align="center">
   <a
