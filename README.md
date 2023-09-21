@@ -57,7 +57,7 @@
   </a>
 </p>
 
-![Screenshot of the application initial page](./src/assets/images/cover.png)
+![Screenshot of the application initial page](./src/assets/images/cover.webp)
 
 <p align="center">
   <a href="https://guipmdev-dt-money.vercel.app/"
@@ -117,7 +117,7 @@ The layout of the application was designed by **Rocketseat** and is available on
 
 <p align="center">
   <img
-    src="./src/assets/images/layout-cover.png"
+    src="./src/assets/images/layout-cover.webp"
     alt="Web application layout image cover"
     width="50%"
   />
