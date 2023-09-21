@@ -1,6 +1,6 @@
 {
   "name": "dt-money",
-  "description": "React and TypeScript-based web app for intuitive personal finance management.",
+  "description": "Web app for managing finances with transaction tracking and summary",
   "private": true,
   "type": "module",
   "scripts": {
