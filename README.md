@@ -3,7 +3,6 @@
   <img
     src="https://img.shields.io/badge/lang-en-gray?style=flat-square&labelColor=202024"
     alt="lang-en"
-    title="Você está lendo o README em inglês"
   />
   <a href="./README.pt-br.md" title="Ler o README em português brasileiro">
     <img
@@ -92,9 +91,9 @@
 
 ## 📍 Overview
 
-The project is a web-based financial application built with _React_ and _TypeScript_. It allows users to manage their transactions by creating, viewing, and searching for transactions. The core functionalities include displaying a summary of income, outcome, and overall balance, creating new transactions, and searching for transactions based on user input.
+This project is a web application developed in _React_ and _TypeScript_ that allows users to manage their finances by creating, viewing and searching for transactions. Its main features include displaying a summary of income, expenses and overall balance, creating new transactions and searching for records based on user input.
 
-The purpose of the project is to provide an intuitive and user-friendly interface for managing personal finances, keeping track of transactions, and organizing financial data effectively. Its value proposition lies in its simplicity, efficiency, and the ability to provide important financial insights to users.
+Its main objective is to provide an intuitive and easy-to-use interface for managing personal finances, tracking transactions and organizing financial data efficiently. Its value proposition lies in its simplicity, efficiency and ability to provide users with relevant financial information.
 
 ### ⚠️ Disclaimer
 

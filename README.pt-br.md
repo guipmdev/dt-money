@@ -9,7 +9,6 @@
   <img
     src="https://img.shields.io/badge/lang-pt--br-gray?style=flat-square&labelColor=202024"
     alt="lang-pt-br"
-    title="You are reading the README in Brazilian portuguese"
   />
 </p>
 
@@ -92,9 +91,9 @@
 
 ## 📍 Visão geral
 
-O projeto é um aplicativo financeiro para web desenvolvido com _React_ e _TypeScript_. Ele permite que os usuários gerenciem suas transações criando, visualizando e pesquisando por transações. As suas principais funcionalidades incluem a exibição de um resumo de receitas, despesas e saldo geral, criação de novas transações e pesquisa por transações baseada na entrada do usuário.
+Esse projeto é uma aplicação web desenvolvida em _React_ e _TypeScript_ que permite aos usuários gerenciarem suas finanças criando, visualizando e pesquisando por transações. As suas principais funcionalidades incluem a exibição de um resumo de receitas, despesas e saldo geral, criação de novas transações e pesquisa por registros baseada na entrada do usuário.
 
-O objetivo do projeto é fornecer uma interface intuitiva e fácil de usar para gerenciamento das finanças pessoais, acompanhar as movimentações e organizar os dados financeiros de forma eficiente. Sua proposta de valor está na simplicidade, eficiência e capacidade de fornecer informações financeiras relevantes aos usuários.
+Seu objetivo principal é fornecer uma interface intuitiva e fácil de usar para gerenciamento das finanças pessoais, acompanhar as movimentações e organizar os dados financeiros de forma eficiente. Sua proposta de valor está na simplicidade, eficiência e capacidade de fornecer informações financeiras relevantes aos usuários.
 
 ### ⚠️ Aviso
 
