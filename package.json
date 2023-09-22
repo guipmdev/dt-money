@@ -43,6 +43,9 @@
     "type": "git",
     "url": "git+https://github.com/guipmdev/dt-money.git"
   },
+  "bugs": {
+    "url": "https://github.com/guipmdev/dt-money/issues"
+  },
   "author": {
     "name": "Guilherme Preveda Milék",
     "email": "guipmdev@gmail.com",
