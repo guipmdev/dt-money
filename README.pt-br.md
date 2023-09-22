@@ -1,4 +1,4 @@
-<!-- ===== HEADER (Badges) ===== -->
+<!-- ===== HEADER ===== -->
 <p align="right">
   <a href="./README.md" title="Read the README in english">
     <img

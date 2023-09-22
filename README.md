@@ -1,4 +1,4 @@
-<!-- ===== HEADER (Badges) ===== -->
+<!-- ===== HEADER ===== -->
 <p align="right">
   <img
     src="https://img.shields.io/badge/lang-en-gray?style=flat-square&labelColor=202024"
